@@ -21,7 +21,7 @@
 [ext_resource type="Texture2D" uid="uid://ds1gdssffhjo0" path="res://graphics/menus/settings/settingsAdrian/papers.png" id="14_5fu2g"]
 [ext_resource type="Texture2D" uid="uid://p4yqxm1eixov" path="res://graphics/menus/settings/settingsAdrian/fullscreen.png" id="16_udegp"]
 [ext_resource type="Texture2D" uid="uid://brsf276kfi0nr" path="res://graphics/menus/settings/settingsAdrian/playmusic.png" id="19_hiabw"]
-[ext_resource type="PackedScene" uid="uid://0yxb6bpcdte" path="res://scenes/menus/credits.tscn" id="22_5fu2g"]
+[ext_resource type="PackedScene" uid="uid://pa4j04iaiwil" path="res://scenes/menus/credits.tscn" id="22_5fu2g"]
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_rrg86"]
 load_path = "res://.godot/imported/grabber.png-475198f4760f482d83ffe3adf0ba9ddb.ctex"
@@ -1038,6 +1038,7 @@ texture = ExtResource("3_ojvp1")
 modulate_color = Color(1, 1, 1, 0.8627451)
 
 [node name="SettingsMenu" type="CanvasLayer" unique_id=1434209501]
+layer = 101
 script = ExtResource("1_s2d1y")
 resolution_textures = Array[String](["640 x 360", "1280 x 720", "1920 x 1080", "2560 x 1440", "3840 x 2160"])
 metadata/_edit_vertical_guides_ = [427.0, 1168.0, 1185.0, 716.0]
