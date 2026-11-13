@@ -1,4 +1,4 @@
-[gd_scene format=3 uid="uid://0yxb6bpcdte"]
+[gd_scene format=3 uid="uid://pa4j04iaiwil"]
 
 [ext_resource type="Script" uid="uid://dya2f4e2vrjef" path="res://components/utils/ui/credits.gd" id="1_44wmd"]
 [ext_resource type="Texture2D" uid="uid://bhq3t776vxuua" path="res://graphics/menus/settings/bg.png" id="1_yrcfj"]
@@ -135,12 +135,13 @@ LICENSE
 
 © 2026 HEAD – Genève (Geneva School of Art and Design, HES-SO)
 
-This is an open-source, non-commercial video game, developed with Godot
-Engine.
+This is an open-source, non-commercial video game, developed with Godot Engine.
+Source code and assets available at
+https://github.com/headpoolnumerique/Amnios
 
-Code
-  Licensed under the PolyForm Noncommercial License 1.0.0
-  https://polyformproject.org/licenses/noncommercial/1.0.0/
+Software
+  Licensed under GNU Affero General Public License v3.0 or later (AGPL-3.0-or-later)
+  https://choosealicense.com/licenses/agpl-3.0/
 
 Art & other data assets
   Licensed under Creative Commons Attribution-NonCommercial-ShareAlike
